@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🎓 3rd year Computer Science undergrad passionate about AI, web development, and tech that drives impact<br><br>💼 AI Intern at CodSoft<br><br>🌱 Currently learning LangChain and multi-agent systems<br><br>🧠 Building smart apps with RAG systems, LLMs, and MERN<br><br>🎯 Focused on building full-stack apps and AI agents for real-world use<br><br>
+🎓 3rd year Computer Science undergrad passionate about AI, web development, and tech that drives impact<br><br>🌱 Currently learning LangChain and multi-agent systems<br><br>🧠 Building smart apps with RAG systems, LLMs, and MERN<br><br>🎯 Focused on building full-stack apps and AI agents for real-world use<br><br>
 
 
 ## 🌐 Socials:
